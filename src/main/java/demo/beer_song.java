@@ -1,3 +1,5 @@
+package demo;
+
 public class beer_song {
     public static void main(String[] args) {
         int beerNum= 99;
