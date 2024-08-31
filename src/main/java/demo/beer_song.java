@@ -19,6 +19,7 @@ public class beer_song {
                     System.out.println(beerNum + "" + word + "of beer");
                 } else {
                     System.out.println("No more beer on the wall");
+
                 }
             }
         }
